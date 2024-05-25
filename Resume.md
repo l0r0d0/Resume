@@ -4,7 +4,7 @@
 **Contact Information:**
 - Email: sag090302@gmail.com
 - Location: Aurangabad, Maharashtra, India
-**Objective:**
+-**Objective:**
 Passionate and dedicated SOC Analyst with a strong foundation in cybersecurity principles, SIEM tools, and Red Teaming. Seeking to leverage my skills and hands-on project experience in a challenging cybersecurity role to protect and defend organizational assets.
 
 **Skills:**
