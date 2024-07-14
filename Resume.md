@@ -1,46 +1,59 @@
-**SIDDHARTH GAIKWAD**
+# Siddharth Gaikwad
+
 **SOC Analyst**
 
-**Contact Information:**
-- Email: sag090302@gmail.com
-- Location: Aurangabad, Maharashtra, India
+## Contact Information
+- **Email:** sag090302@gmail.com
+- **Location:** Aurangabad, Maharashtra, India
 
-**Objective:**
-Passionate and dedicated SOC Analyst with a strong foundation in cybersecurity principles, SIEM tools, and Red Teaming. Seeking to leverage my skills and hands-on project experience in a challenging cybersecurity role to protect and defend organizational assets.
+## Professional Summary
+A strong foundation in SIEM tools, including Splunk and ArcSight. Skilled in vulnerability scanning, penetration testing, log analysis, and network security. Proven ability to create CTF machines and Python-based security tools. Experienced in installing ESM SmartConnector on servers. Open to relocation to apply my skills and expertise in enhancing the security posture of a dynamic organization.
 
-**Skills:**
-- **SIEM Tools:** Splunk, ArcSight ESM
-- **Cybersecurity:** Vulnerability Scanning, Penetration Testing, Log Analysis
-- **Networking:** Network Configuration, Firewall Implementation
-- **Programming:** Python (network scanning, enumeration tools)
-- **Red Teaming:** OWASP Top 10, Ethical Hacking
-- **Languages:**  Marathi, Hindi, English, German
+## Education
+**Bachelor of Science in Computer Science**  
+S.B.E.S. College, 2020-2023
 
-**Projects:**
-- **CTF Machine Development:**
-  - Developed a Linux-based CTF machine with complex configurations for security training.
-  - Implemented port forwarding, SSH login configurations, and embedded security challenges.
-  - Received positive feedback for the machine's difficulty and educational value.
-  
-- **Network Scanner in Python:**
-  - Created a Python-based local network scanner and enumeration tool.
-  - Designed the tool to perform network sweeps and identify open ports and services.
-  - Developed a ping utility to test host reachability, similar to Nmap functionalities.
+**Diploma in Cyber Security & Security Operations Center (SOC)**  
+In the last Phase
 
-**Education:**
-- **Bachelor of Science in Computer Science**
-  - **S.B.E.S. College**, Aurangabad, Maharashtra, India
-  - **2020-2023**
-  - Relevant Coursework: Network Security, Ethical Hacking, System Administration, Programming in Python
-  - Academic Projects: Developed secure network architectures, implemented intrusion detection systems.
+## Technical Skills
+- **Computer Science:** In-depth knowledge of computer systems, software, and hardware.
+- **Problem Solving:** Adept at identifying issues and implementing effective solutions.
+- **Client Relations:** Strong ability to build and maintain positive client relationships.
+- **Communication:** Excellent verbal and written communication skills.
+- **Project Plans:** Experienced in developing and executing detailed project plans.
+- **Strategic Thinking:** Capable of strategic planning and long-term visioning.
 
-**Extracurricular Activities:**
-- **Member**, Cybersecurity Club, S.B.E.S. College
-- **Participant**, Hack The Box Challenges (Top 10 in India)
-- **Volunteer**, Local tech community events and security workshops
+## Work Experience
+**Salesman/Customer Service**  
+*Computer Store, Aurangabad*  
+Jan 2023 - Mar 2023
+- Assisted customers with purchasing decisions, providing product knowledge and support.
+- Managed inventory and maintained store organization.
+- Provided technical support for various computer hardware and software issues.
 
-**Additional Training:**
-- Completed training modules on SIEM tools (Splunk, ArcSight ESM) and Red Teaming techniques.
-- Attended webinars and workshops on cybersecurity best practices and threat mitigation.
+## Projects
+**CTF Machine Development**
+- Developed a Linux-based Capture the Flag (CTF) machine for local competitions.
+- Configured HTTP port 80 to forward to port 8081 and secured SSH access on port 22.
+- Included complex hash functions and challenging privilege escalation tasks.
+- Received positive feedback from participants for the difficulty and educational value.
 
-**Enthusiastic about relocating to new countries for career opportunities and personal growth.**
+**Python Network Scanner and Enumeration Tool**
+- Created a Python script for local network scanning and website enumeration, similar to ‘Nmap’.
+- Developed a ping utility to check the reachability of hosts by sending packets to domains or IP addresses.
+
+**ESM SmartConnector Installation**
+- Successfully installed and configured ESM SmartConnector on servers.
+- Ensured seamless integration with existing SIEM tools to enhance security monitoring capabilities.
+- Conducted testing and troubleshooting to confirm proper functionality and data collection.
+
+## Certifications & Achievements
+- Top 10 rank holder in HTB India.
+- Successfully built and deployed a CTF machine for local competitions.
+
+## Languages
+- **Hindi:** Native
+- **English:** Fluent
+- **German:** Intermediate
+- **Marathi:** Fluent
